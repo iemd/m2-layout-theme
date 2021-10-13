@@ -19,8 +19,8 @@
 - **Generic layout**: Responsible for the **availability and visualization** of the elements in the **body page** in a **detailed manner**.
 ## Basic layouts
 - The **basic view of all Magento storefront pages** is defined in **two page configuration layout files** located in the `Magento_Theme` module:
-- `default.xml`: defines the **page layout**.
-- `default_head_blocks.xml`: defines the **scripts**, **images**, and **metadata** included in pages’ **head section**.
+- `default.xml`: Defines the **page layout**.
+- `default_head_blocks.xml`: Defines the **scripts**, **images**, and **metadata** included in pages’ **head section**.
 - These **basic page configuration layouts** are **extended** in other **Magento modules** and in **Magento themes**.
 - You can also **extend** and **override** these files in your **custom theme**.
 ## Layout customizations
